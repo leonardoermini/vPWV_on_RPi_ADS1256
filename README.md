@@ -1,4 +1,4 @@
-# vPWV_on_RPi
+# vPWV_on_RPi_&_ADS1256
 A portable device for venous Pulse Wave Velocity measurement
 
 The present code is intended to be used on a Raspberry Pi 4 B+ (Processor: Broadcom BCM2711 quad-core 64 bit ARM Cortex-A72, 1.5 GHz; RAM: 4 GB) equipped with Waveshare Raspberry Pi High-Precision AD/DA Expansion Board used to acquire, sequentially, the following analogic signals:
